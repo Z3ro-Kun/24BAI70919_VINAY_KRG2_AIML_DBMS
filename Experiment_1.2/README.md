@@ -95,5 +95,5 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 ---
 
 ## Input/Output Analysis:
-
-! [Output](Screenshot 2026-01-21 213532.png)
+! [Input](./Screenshot 2026-01-21 214433.png)
+! [Output](./Screenshot 2026-01-21 213532.png)

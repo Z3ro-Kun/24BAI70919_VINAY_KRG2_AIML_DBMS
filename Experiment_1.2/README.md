@@ -34,9 +34,8 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
   ●	Sort query results using ORDER BY.
 
 
-## Practical: Aggregate Functions with GROUP BY and HAVING (Students Table)
 
-## 1) Actual Implementation Steps / Logic / Tasks Performed
+## Actual Implementation Steps / Logic / Tasks Performed
 
 #### Table Setup
 - Created a table named **Students** to store student information.
@@ -72,7 +71,7 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 
 ---
 
-## 2) Procedure of the Practical (Step-by-Step)
+## Procedure of the Practical (Step-by-Step)
 
 1. Open the SQL environment (such as PostgreSQL / MySQL / SQL Server) and connect to the required database.
 
@@ -94,3 +93,7 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 7. Execute a query to calculate the average marks of students in each city using **AVG(marks)** and group the results using **GROUP BY city**.
 
 ---
+
+## Input/Output Analysis:
+
+! [Output](Screenshot 2026-01-21 213532.png)

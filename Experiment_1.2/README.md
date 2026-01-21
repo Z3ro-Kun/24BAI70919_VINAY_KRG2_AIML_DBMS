@@ -23,17 +23,6 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 
   ●	To analyze data using aggregate functions like COUNT(), SUM(), AVG(), MIN(), and MAX().
 
-## Learning Outcomes:
-#### After completing this experiment, students will be able to:
-  ●	Filter records using the WHERE clause.
-
-  ●	Group records using GROUP BY.
-
-  ●	Apply conditions on grouped data using HAVING.
-
-  ●	Sort query results using ORDER BY.
-
-
 
 ## Actual Implementation Steps / Logic / Tasks Performed
 
@@ -98,3 +87,15 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 ! [Input](Screenshot%202026-01-21%20214433.png)
 
 ! [Output](https://github.com/Z3ro-Kun/24BAI70919_VINAY_KRG2_AIML_DBMS/blob/main/Experiment_1.2/Screenshot%202026-01-21%20213532.png)
+
+
+## Learning Outcomes:
+  ●	Filter records using the WHERE clause.
+
+  ●	Group records using GROUP BY.
+
+  ●	Apply conditions on grouped data using HAVING.
+
+  ●	Sort query results using ORDER BY.
+
+

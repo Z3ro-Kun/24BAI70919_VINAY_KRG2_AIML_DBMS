@@ -7,11 +7,13 @@
 
 
 
-INSERT INTO Students VALUES (1, 'Vinay', 'Dehradun', 85);
-INSERT INTO Students VALUES (2, 'Ankit', 'Chnadigarh', 78);
-INSERT INTO Students VALUES (3, 'Akash', 'Dehradun', 92);
-INSERT INTO Students VALUES (4, 'Aamir', 'Rishikesh', 88);
-INSERT INTO Students VALUES (5, 'Satyam', 'Rishikesh', 75);
+
+INSERT INTO Students VALUES (1, 'Aman', 'Mohali', 85);
+INSERT INTO Students VALUES (2, 'Rohit', 'Mohali', 78);
+INSERT INTO Students VALUES (3, 'Neha', 'Mohali', 92);
+INSERT INTO Students VALUES (4, 'Simran', 'Amritsar', 88);
+INSERT INTO Students VALUES (5, 'Karan', 'Amritsar', 75);
+
 
 
 

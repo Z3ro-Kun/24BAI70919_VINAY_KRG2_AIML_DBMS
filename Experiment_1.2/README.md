@@ -92,7 +92,7 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 ![Output](Screenshot%202026-01-26%20152730.png)
 ![Output2](Screenshot%202026-01-26%20152750.png)
 ![Output3](Screenshot%202026-01-26%20152832.png)
-![Output4]()
+![Output4](Screenshot%202026-01-26%20152940.png)
 
 ## Learning Outcomes:
   ●	Filter records using the WHERE clause.

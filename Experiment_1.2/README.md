@@ -84,8 +84,11 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 ---
 
 ## Input/Output Analysis:
-![Input](Screenshot%202026-01-21%20214433.png)
+#### Input
+![Input](Screenshot%202026-01-26%20153037.png)
 
+
+#### Output
 ![Output](https://github.com/Z3ro-Kun/24BAI70919_VINAY_KRG2_AIML_DBMS/blob/main/Experiment_1.2/Screenshot%202026-01-21%20213532.png)
 
 

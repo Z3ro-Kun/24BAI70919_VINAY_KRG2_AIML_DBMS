@@ -90,6 +90,7 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 
 #### Output
 ![Output](Screenshot%202026-01-26%20152730.png)
+![Output2](Screenshot%202026-01-26%20152750.png)
 
 
 ## Learning Outcomes:

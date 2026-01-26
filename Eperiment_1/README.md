@@ -20,4 +20,9 @@ To gain practical experience in implementing Data Definition Language (DDL), Dat
 
 3.	To ensure database security, a database role named Librarian must be created. This role should be password protected and granted SELECT, INSERT, and DELETE permissions on the required tables. The system administrator (pgAdmin) should also have the ability to revoke these permissions when required using role-based access control.
 
+## Learning Outcomes
+1. Learned how to operate pgAdmin 4
 
+2. Learned how to execute SQL queries
+
+3. Learned how to create Table in SQL, how to insert data in tables

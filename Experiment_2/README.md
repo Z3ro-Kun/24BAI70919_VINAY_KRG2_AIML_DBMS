@@ -87,7 +87,6 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 
 #### Output
 ![Output](1.jpeg)
-![Output2](2.jpeg)
 ![Output3](3.jpeg)
 ![Output4](4.jpeg)
 

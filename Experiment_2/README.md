@@ -84,15 +84,12 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 ---
 
 ## Input/Output Analysis:
-#### Input
-![Input](Screenshot%202026-01-26%20153037.png)
-![Input2](Screenshot%202026-01-26%20153045.png)
 
 #### Output
-![Output](Screenshot%202026-01-26%20152730.png)
-![Output2](Screenshot%202026-01-26%20152750.png)
-![Output3](Screenshot%202026-01-26%20152832.png)
-![Output4](Screenshot%202026-01-26%20152940.png)
+![Output](1.jpeg)
+![Output2](2.jpeg)
+![Output3](3.jpeg)
+![Output4](4.jpeg)
 
 ## Learning Outcomes:
   ●	Filter records using the WHERE clause.

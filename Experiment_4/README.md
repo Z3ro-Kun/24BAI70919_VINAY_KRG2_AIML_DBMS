@@ -43,6 +43,7 @@ To practice working with Oracle SQL tables, apply conditional logic to determine
   ![Input](Screenshot%202026-02-23%20105509.png)
   ![Input](Screenshot%202026-02-23%20105529.png)
   ![Input](Screenshot%202026-02-23%20105537.png)
+  ![Output](Screenshot%202026-02-23%20105606.png)
 ### Input
 - `schema_violations` table: `id`, `schema_name`, `violation_count`  
 - `students` table: `name`, `marks`  

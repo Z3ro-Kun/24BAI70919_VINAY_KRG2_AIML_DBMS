@@ -78,10 +78,12 @@ In database systems, reusable logic is often required to perform repeated operat
 ---
 
 ## Output
--Created Table
+- Created Table
+  
 ![Table](exp_8_ss_2.png)
 
--Actual Output
+- Actual Output
+  
 ![Output](exp_8_ss.png)
 
 ---
